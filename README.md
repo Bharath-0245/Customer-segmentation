@@ -18,6 +18,11 @@ This project applies **Unsupervised Learning algorithms** to segment mall custom
 Since the dataset does not contain predefined labels, clustering algorithms are used to discover hidden patterns within the data.
 
 ---
+## 👨‍💻 Authors
+
+- Polisolla Bharath
+- Jayanth 
+
 
 ## 🎯 Problem Statement
 
